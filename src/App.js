@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
 import { Dialog, DialogActionsBar } from '@progress/kendo-react-dialogs';
-import { Input } from '@progress/kendo-react-inputs'; 
+import { Input } from '@progress/kendo-react-inputs';
 import { Button } from '@progress/kendo-react-buttons';
 import { Ripple } from '@progress/kendo-react-ripple';
 import { savePDF } from '@progress/kendo-react-pdf';
